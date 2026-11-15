@@ -1,0 +1,700 @@
+[
+ {
+  "q": "How does the SEC regulate investment advisers under the Investment Advisers Act of 1940?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Investment Advisers Act require for custody of client assets?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "How does the Securities Exchange Act regulate broker registration?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What reporting does the Foreign Account Tax Compliance Act require from foreign banks?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "what does the fourth anti money laundering directive say about beneficial ownership registers",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What is the beneficial ownership threshold under the EU fifth anti-money laundering directive?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the EU Markets in Crypto-Assets regulation require from wallet providers?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "How does the Financial Conduct Authority supervise payment firms in the UK?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What protections does the Electronic Fund Transfer Act give for unauthorized transfers?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Anti-Money Laundering Act of 2020 change about whistleblower awards?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "How does the Federal Deposit Insurance Act regulate bank mergers?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the Equal Credit Opportunity Act prohibit in lending decisions?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the Fair Debt Collection Practices Act say about calling hours?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Children's Online Privacy Protection Act require for parental consent?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "How does Virginia's Consumer Data Protection Act define sensitive data?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the California Privacy Rights Act add to consumer rights?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does China's Personal Information Protection Law require for cross-border transfers?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does Japan's APPI require before transferring personal data abroad?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the Swiss Federal Act on Data Protection require for breach notification?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "How does the NIS2 Directive define essential entities?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the EU Cyber Resilience Act require from software makers?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the Digital Services Act require from online platforms?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What obligations does the Digital Markets Act place on gatekeepers?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "How does the EU Artificial Intelligence Act classify high-risk systems?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the payment card industry data security standard require for network segmentation?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does Regulation Best Interest require from broker-dealers?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does SEC Regulation S-P require for safeguarding customer records?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does Regulation SHO require for short sales?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What must a registration statement contain under the Securities Act of 1933?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "How does the Commodity Exchange Act regulate futures trading?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What fees does the Credit Card Accountability Responsibility and Disclosure Act limit?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the Home Mortgage Disclosure Act require lenders to report?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What kickbacks does the Real Estate Settlement Procedures Act prohibit?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Telephone Consumer Protection Act require for autodialed calls?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Health Insurance Portability and Accountability Act require in business associate agreements?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the Federal Information Security Modernization Act require of federal agencies?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does CMMC certification require from defense contractors?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does a FedRAMP authorization involve?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What do the UK Money Laundering Regulations 2017 say about customer due diligence?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "Which offences does the Proceeds of Crime Act 2002 create?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "How does the Senior Managers and Certification Regime assign personal responsibility?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does Canada's Proceeds of Crime (Money Laundering) and Terrorist Financing Act require?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does AUSTRAC require from Australian reporting entities?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does Hong Kong's anti-money laundering ordinance require for customer due diligence?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What do the Wolfsberg Principles say about correspondent banking?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Egmont Group do for financial intelligence units?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "How does the Japanese J-SOX regime differ from US SOX?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Foreign Corrupt Practices Act require for books and records?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Holding Foreign Companies Accountable Act require from auditors?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the Inflation Reduction Act say about the corporate minimum tax?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does IFRS 9 require for expected credit losses?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "How does ASC 606 recognize revenue from contracts?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does Article 4A of the Uniform Commercial Code say about wire transfers?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What do Nacha rules require for ACH fraud monitoring?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does Regulation CC say about funds availability?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does Regulation Z require for credit card disclosures?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Sherman Act prohibit?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "How does the Clayton Act regulate mergers?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does Section 5 of the Federal Trade Commission Act prohibit?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "what sanctions powers does the International Emergency Economic Powers Act give the president",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Export Administration Regulations entity list restrict?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What do the International Traffic in Arms Regulations control?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "How do the EU's restrictive measures against Russia limit deposits from Russian nationals?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the UK Sanctions and Anti-Money Laundering Act 2018 allow ministers to do?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the Basel Committee say about operational risk capital?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "How does the Federal Reserve supervise bank holding companies?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the Office of the Comptroller of the Currency require for a national bank charter?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What does the National Credit Union Administration examine?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "How are state money transmitter licenses obtained?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does Canada's NI 52-109 require from chief executives?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the EU Accounting Directive require from audit committees?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "What does the auditing standard on risk assessment, SAS 145, require?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "What Does The Securities Exchange Act Of 1934 Say About Insider Trading?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "How Does The Commodity Futures Trading Commission Oversee Swaps?",
+  "answerable": false,
+  "split": "dev"
+ },
+ {
+  "q": "Under the Truth in Savings Act, what must banks disclose about deposit accounts?",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "Tell me what the European Banking Authority says about customer due diligence for crypto firms.",
+  "answerable": false,
+  "split": "test"
+ },
+ {
+  "q": "Which article lets people object to processing of their data?",
+  "answerable": true,
+  "expected": "Article 21",
+  "split": "test"
+ },
+ {
+  "q": "Under which article can someone object to direct marketing?",
+  "answerable": true,
+  "expected": "Article 21",
+  "split": "dev"
+ },
+ {
+  "q": "what article covers rectification of personal data",
+  "answerable": true,
+  "expected": "Article 16",
+  "split": "test"
+ },
+ {
+  "q": "Which article gives people access to their own data?",
+  "answerable": true,
+  "expected": "Article 15",
+  "split": "test"
+ },
+ {
+  "q": "Which article is the right to be forgotten?",
+  "answerable": true,
+  "expected": "Article 17",
+  "split": "test"
+ },
+ {
+  "q": "When can someone ask for their data to be deleted?",
+  "answerable": true,
+  "expected": "consent is withdrawn",
+  "split": "dev"
+ },
+ {
+  "q": "What format must portable data be provided in?",
+  "answerable": true,
+  "expected": "machine-readable",
+  "split": "test"
+ },
+ {
+  "q": "Who can contact the DPO?",
+  "answerable": true,
+  "expected": "all employees and data subjects",
+  "split": "test"
+ },
+ {
+  "q": "What are the duties of the data protection officer?",
+  "answerable": true,
+  "expected": "monitoring compliance",
+  "split": "test"
+ },
+ {
+  "q": "Which kinds of processing need a DPIA?",
+  "answerable": true,
+  "expected": "profiling",
+  "split": "test"
+ },
+ {
+  "q": "Which lawful basis covers processing needed to perform a contract?",
+  "answerable": true,
+  "expected": "contract performance",
+  "split": "dev"
+ },
+ {
+  "q": "What does data minimization mean?",
+  "answerable": true,
+  "expected": "adequate, relevant",
+  "split": "test"
+ },
+ {
+  "q": "What must organizations do with data they no longer need?",
+  "answerable": true,
+  "expected": "delete",
+  "split": "test"
+ },
+ {
+  "q": "What does integrity and confidentiality require for personal data?",
+  "answerable": true,
+  "expected": "technical and organizational measures",
+  "split": "test"
+ },
+ {
+  "q": "Who approves Binding Corporate Rules?",
+  "answerable": true,
+  "expected": "supervisory authorities",
+  "split": "dev"
+ },
+ {
+  "q": "What is the case number of the Schrems II ruling?",
+  "answerable": true,
+  "expected": "C-311/18",
+  "split": "dev"
+ },
+ {
+  "q": "What is the official regulation number of the GDPR?",
+  "answerable": true,
+  "expected": "2016/679",
+  "split": "test"
+ },
+ {
+  "q": "Is health data a special category of personal data?",
+  "answerable": true,
+  "expected": "health data",
+  "split": "dev"
+ },
+ {
+  "q": "Which countries' residents does the GDPR protect?",
+  "answerable": true,
+  "expected": "European Economic Area",
+  "split": "test"
+ },
+ {
+  "q": "Which red flag involves dormant accounts?",
+  "answerable": true,
+  "expected": "significant activity",
+  "split": "dev"
+ },
+ {
+  "q": "What must be collected about where a new customer's money comes from?",
+  "answerable": true,
+  "expected": "Source of funds",
+  "split": "dev"
+ },
+ {
+  "q": "Who has to sign off before a high-risk customer's account is opened?",
+  "answerable": true,
+  "expected": "senior management approval",
+  "split": "test"
+ },
+ {
+  "q": "What form is used to report large cash transactions?",
+  "answerable": true,
+  "expected": "Form 112",
+  "split": "test"
+ },
+ {
+  "q": "Within how many calendar days must a currency transaction report be filed?",
+  "answerable": true,
+  "expected": "15",
+  "split": "test"
+ },
+ {
+  "q": "What is the minimum amount for filing a suspicious activity report?",
+  "answerable": true,
+  "expected": "5,000",
+  "split": "dev"
+ },
+ {
+  "q": "What happens to an employee who tips off a customer about a SAR?",
+  "answerable": true,
+  "expected": "termination",
+  "split": "dev"
+ },
+ {
+  "q": "Which OFAC list are customers checked against?",
+  "answerable": true,
+  "expected": "Specially Designated Nationals",
+  "split": "test"
+ },
+ {
+  "q": "Is sanctions screening only done at onboarding?",
+  "answerable": true,
+  "expected": "ongoing basis",
+  "split": "dev"
+ },
+ {
+  "q": "Who reviews internal suspicious activity reports?",
+  "answerable": true,
+  "expected": "compliance team",
+  "split": "test"
+ },
+ {
+  "q": "Which records must be kept for five years?",
+  "answerable": true,
+  "expected": "SAR filings",
+  "split": "test"
+ },
+ {
+  "q": "What do the quarterly board reports from the BSA officer cover?",
+  "answerable": true,
+  "expected": "key risk indicators",
+  "split": "test"
+ },
+ {
+  "q": "Who can carry out the independent AML audit?",
+  "answerable": true,
+  "expected": "external auditor",
+  "split": "dev"
+ },
+ {
+  "q": "What ownership stake triggers beneficial owner identification for EDD entities?",
+  "answerable": true,
+  "expected": "25%",
+  "split": "test"
+ },
+ {
+  "q": "Which act besides the Bank Secrecy Act does the AML policy comply with?",
+  "answerable": true,
+  "expected": "PATRIOT",
+  "split": "dev"
+ },
+ {
+  "q": "Which companies' accounting scandals led to the 2002 law?",
+  "answerable": true,
+  "expected": "WorldCom",
+  "split": "dev"
+ },
+ {
+  "q": "Which sections of SOX are key provisions?",
+  "answerable": true,
+  "expected": "906",
+  "split": "test"
+ },
+ {
+  "q": "What must the CEO certify about the financial statements?",
+  "answerable": true,
+  "expected": "fairly present",
+  "split": "test"
+ },
+ {
+  "q": "Which edition of the COSO framework is used for ICFR?",
+  "answerable": true,
+  "expected": "2013",
+  "split": "test"
+ },
+ {
+  "q": "Besides non-accelerated filers, who is exempt from auditor attestation?",
+  "answerable": true,
+  "expected": "emerging growth",
+  "split": "test"
+ },
+ {
+  "q": "What does the risk assessment component of COSO cover?",
+  "answerable": true,
+  "expected": "identifying and analyzing risks",
+  "split": "test"
+ },
+ {
+  "q": "Must privileged access be logged?",
+  "answerable": true,
+  "expected": "logged and monitored",
+  "split": "test"
+ },
+ {
+  "q": "Who approves automated journal entries?",
+  "answerable": true,
+  "expected": "Controller",
+  "split": "test"
+ },
+ {
+  "q": "What must every journal entry reference?",
+  "answerable": true,
+  "expected": "supporting documentation",
+  "split": "test"
+ },
+ {
+  "q": "Which board approves changes to financial systems?",
+  "answerable": true,
+  "expected": "change advisory board",
+  "split": "dev"
+ },
+ {
+  "q": "What must happen before significant system changes are deployed?",
+  "answerable": true,
+  "expected": "Security testing",
+  "split": "dev"
+ },
+ {
+  "q": "Who does the Chief Audit Executive report internal audit activities to?",
+  "answerable": true,
+  "expected": "Audit Committee",
+  "split": "dev"
+ },
+ {
+  "q": "Does an ordinary control deficiency have to be disclosed?",
+  "answerable": true,
+  "expected": "Does not require disclosure",
+  "split": "dev"
+ },
+ {
+  "q": "Which emerging risks are added to the enterprise risk assessment?",
+  "answerable": true,
+  "expected": "cybersecurity threats",
+  "split": "dev"
+ },
+ {
+  "q": "How Often Must Disaster Recovery Plans Be Tested?",
+  "answerable": true,
+  "expected": "annually",
+  "split": "test"
+ },
+ {
+  "q": "In Which Quarter Is The 10-K Filed With SOX Certifications?",
+  "answerable": true,
+  "expected": "Q1",
+  "split": "test"
+ },
+ {
+  "q": "Which environments must be kept separate during system development?",
+  "answerable": true,
+  "expected": "production",
+  "split": "test"
+ },
+ {
+  "q": "What protects employees who use the whistleblower hotline?",
+  "answerable": true,
+  "expected": "non-retaliation",
+  "split": "dev"
+ },
+ {
+  "q": "Which code of conduct applies to all employees under SOX entity-level controls?",
+  "answerable": true,
+  "expected": "Code of Ethics",
+  "split": "dev"
+ }
+]

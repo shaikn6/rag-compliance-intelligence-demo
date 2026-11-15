@@ -1,0 +1,141 @@
+ANTI-MONEY LAUNDERING (AML) POLICY
+Document ID: AML-POL-001
+Version: 3.2
+Effective Date: January 1, 2024
+Last Reviewed: December 15, 2023
+
+SECTION 1: PURPOSE AND SCOPE
+
+1.1 Purpose
+This Anti-Money Laundering Policy establishes the framework for detecting,
+preventing, and reporting money laundering activities within the organization.
+The policy ensures compliance with the Bank Secrecy Act (BSA), the USA PATRIOT
+Act, and applicable FinCEN regulations.
+
+1.2 Scope
+This policy applies to all employees, contractors, and third-party service
+providers who handle financial transactions, customer due diligence, or
+compliance monitoring functions. All business lines including retail banking,
+commercial banking, wealth management, and payment processing are covered.
+
+SECTION 2: CUSTOMER DUE DILIGENCE (CDD)
+
+2.1 Standard Due Diligence Requirements
+All new customers must undergo standard due diligence before account opening.
+The following information must be collected and verified:
+- Full legal name (individual or entity)
+- Date of birth (for individuals) or date of formation (for entities)
+- Government-issued identification number (SSN, EIN, or equivalent)
+- Physical address and mailing address
+- Source of funds and anticipated transaction patterns
+- Nature of business or employment
+
+2.2 Enhanced Due Diligence (EDD)
+Enhanced due diligence is mandatory for high-risk customers including:
+- Politically Exposed Persons (PEPs) and their immediate family members
+- Customers in high-risk jurisdictions identified by FATF
+- Correspondent banking relationships
+- Money service businesses (MSBs)
+- Customers with complex ownership structures or shell companies
+
+For EDD customers, additional verification includes beneficial ownership
+identification for all entities with 25% or greater ownership interest,
+senior management approval before account opening, and quarterly review cycles.
+
+2.3 Beneficial Ownership
+Effective May 11, 2018, the Beneficial Ownership Rule requires financial
+institutions to identify and verify the identity of beneficial owners of
+legal entity customers. This applies to all legal entity customers opening
+new accounts except for certain exempted entities.
+
+SECTION 3: TRANSACTION MONITORING
+
+3.1 Automated Monitoring Systems
+The organization uses automated transaction monitoring systems to identify
+potentially suspicious activity patterns. The systems apply rule-based
+scenarios and behavioral analytics to flag unusual transactions.
+
+3.2 Suspicious Activity Indicators
+The following transaction patterns require enhanced scrutiny:
+- Cash transactions at or structured to avoid the $10,000 CTR threshold
+- Rapid movement of funds through multiple accounts within 24 hours
+- Transactions inconsistent with customer's stated business purpose
+- Unusual wire transfer patterns to high-risk jurisdictions
+- Multiple customers sending funds to a single beneficiary
+- Dormant accounts suddenly showing significant activity
+
+3.3 Currency Transaction Reports (CTRs)
+Financial institutions must file a Currency Transaction Report (CTR) for
+any cash transaction exceeding $10,000 in a single business day, regardless
+of whether the transaction appears suspicious. CTRs must be filed within
+15 calendar days of the transaction date using FinCEN Form 112.
+
+SECTION 4: SUSPICIOUS ACTIVITY REPORTING
+
+4.1 Suspicious Activity Reports (SARs)
+When a suspicious transaction is identified, employees must complete an
+internal Suspicious Activity Report within 24 hours of discovery. The
+compliance team reviews all internal SARs and makes the determination
+to file a SAR with FinCEN within 30 calendar days of detection.
+
+4.2 SAR Filing Thresholds
+SARs must be filed for transactions involving $5,000 or more when there
+is reason to suspect the transaction involves funds from illegal activity,
+is designed to evade BSA requirements, or lacks a lawful purpose.
+
+4.3 Tipping Off Prohibition
+Employees are strictly prohibited from disclosing the existence of a SAR
+or any investigation to the subject of the report. Violation of this
+prohibition may result in criminal penalties and immediate termination.
+
+SECTION 5: SANCTIONS COMPLIANCE
+
+5.1 OFAC Screening
+All customers and transactions must be screened against the Office of
+Foreign Assets Control (OFAC) Specially Designated Nationals (SDN) list
+and other applicable sanctions lists. Screening must occur at onboarding
+and on an ongoing basis as lists are updated.
+
+5.2 Blocked and Rejected Transactions
+When a potential match to a sanctions list is identified, the transaction
+must be blocked immediately and reported to OFAC within 10 business days.
+The compliance team must conduct a thorough investigation before releasing
+any blocked funds.
+
+SECTION 6: TRAINING AND AWARENESS
+
+6.1 Mandatory Training
+All employees must complete AML compliance training annually. New employees
+must complete training within 30 days of hire. Training covers recognition
+of suspicious activity, reporting procedures, and regulatory requirements.
+
+6.2 Specialized Training
+Employees in high-risk roles including front-line staff, compliance officers,
+and investigators receive specialized training covering advanced typologies,
+investigation techniques, and regulatory updates.
+
+SECTION 7: RECORD RETENTION
+
+7.1 Retention Requirements
+All AML-related records must be retained for a minimum of five years from
+the date of creation. This includes customer identification records, SAR
+filings, CTR filings, transaction records, and training completion records.
+Records must be readily accessible for regulatory examination upon request.
+
+SECTION 8: GOVERNANCE AND OVERSIGHT
+
+8.1 BSA/AML Officer
+The organization designates a qualified BSA/AML Compliance Officer who is
+responsible for the day-to-day oversight of the AML program. The BSA/AML
+Officer reports directly to the Chief Compliance Officer and has direct
+access to the Board of Directors.
+
+8.2 Independent Audit
+The AML program is subject to independent audit by the Internal Audit
+function or an external auditor no less than annually. Audit findings are
+reported to the Audit Committee of the Board of Directors.
+
+8.3 Board Reporting
+The BSA/AML Officer provides quarterly reports to the Board of Directors
+covering program effectiveness, significant cases, regulatory changes,
+and key risk indicators.

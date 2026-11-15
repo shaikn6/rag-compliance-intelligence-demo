@@ -1,0 +1,170 @@
+GENERAL DATA PROTECTION REGULATION (GDPR) COMPLIANCE FRAMEWORK
+Document ID: GDPR-FRM-002
+Version: 2.1
+Effective Date: May 25, 2018 (Updated: March 1, 2024)
+Last Reviewed: February 28, 2024
+
+SECTION 1: INTRODUCTION AND LEGAL BASIS
+
+1.1 Regulatory Context
+The General Data Protection Regulation (GDPR) is Regulation (EU) 2016/679,
+which became enforceable on May 25, 2018. This regulation governs the
+processing of personal data of individuals within the European Union and
+European Economic Area. Organizations processing EU resident data must
+comply regardless of their geographic location.
+
+1.2 Key Definitions
+Personal Data: Any information relating to an identified or identifiable
+natural person ('data subject'), including name, identification number,
+location data, online identifier, or factors specific to physical,
+physiological, genetic, mental, economic, cultural, or social identity.
+
+Special Categories of Personal Data: Data revealing racial or ethnic origin,
+political opinions, religious beliefs, trade union membership, genetic data,
+biometric data for unique identification, health data, or data concerning
+a natural person's sex life or sexual orientation.
+
+Data Controller: The natural or legal person who determines the purposes
+and means of processing personal data.
+
+Data Processor: A natural or legal person who processes personal data on
+behalf of the controller under a Data Processing Agreement (DPA).
+
+SECTION 2: PRINCIPLES OF DATA PROCESSING
+
+2.1 Lawfulness, Fairness, and Transparency
+Personal data must be processed lawfully, fairly, and in a transparent
+manner in relation to the data subject. Processing is lawful only when
+at least one of the following legal bases applies:
+- Consent: The data subject has given clear, affirmative consent
+- Contract: Processing is necessary for contract performance
+- Legal obligation: Processing is required by law
+- Vital interests: Processing is necessary to protect life
+- Public task: Processing is necessary for official functions
+- Legitimate interests: Processing serves legitimate interests without
+  overriding the rights of the data subject
+
+2.2 Purpose Limitation
+Personal data must be collected for specified, explicit, and legitimate
+purposes and not further processed in a manner incompatible with those
+purposes. Further processing for archiving in the public interest,
+scientific or historical research, or statistical purposes is permissible
+with appropriate safeguards.
+
+2.3 Data Minimization
+Personal data collected must be adequate, relevant, and limited to what
+is necessary in relation to the purposes for which it is processed.
+Organizations must regularly review data holdings and delete data that
+is no longer necessary.
+
+2.4 Accuracy
+Personal data must be accurate and, where necessary, kept up to date.
+Every reasonable step must be taken to ensure that inaccurate personal
+data is erased or rectified without delay. Data subjects have the right
+to request correction of inaccurate data.
+
+2.5 Storage Limitation
+Personal data must be kept in a form that permits identification of data
+subjects for no longer than necessary for the purposes for which the data
+is processed. Data retention schedules must be established and enforced.
+
+2.6 Integrity and Confidentiality
+Personal data must be processed in a manner that ensures appropriate
+security, including protection against unauthorized or unlawful processing
+and accidental loss, destruction, or damage, using appropriate technical
+and organizational measures.
+
+SECTION 3: DATA SUBJECT RIGHTS
+
+3.1 Right of Access (Article 15)
+Data subjects have the right to obtain confirmation of whether their
+personal data is being processed, and if so, to receive a copy of the
+data along with information about processing purposes, data categories,
+recipients, retention periods, and automated decision-making. Requests
+must be fulfilled within one month, extendable by two months for complex
+requests.
+
+3.2 Right to Rectification (Article 16)
+Data subjects have the right to have inaccurate personal data corrected
+and incomplete data completed without undue delay.
+
+3.3 Right to Erasure / Right to Be Forgotten (Article 17)
+Data subjects have the right to request erasure of their personal data
+when: data is no longer necessary; consent is withdrawn; data was
+unlawfully processed; data must be erased for legal compliance; or
+when data was collected in relation to offering information society
+services to a child.
+
+3.4 Right to Data Portability (Article 20)
+Data subjects have the right to receive their personal data in a
+structured, commonly used, and machine-readable format, and to transmit
+that data to another controller, where processing is based on consent
+or contract and is carried out by automated means.
+
+3.5 Right to Object (Article 21)
+Data subjects have the right to object at any time to processing of
+personal data for direct marketing, processing based on legitimate
+interests, and processing for scientific or historical research purposes.
+
+SECTION 4: DATA BREACH NOTIFICATION
+
+4.1 Internal Detection and Escalation
+When a personal data breach is discovered, it must be escalated to the
+Data Protection Officer (DPO) immediately, but no later than within 4
+hours of detection. The DPO initiates the breach response procedure.
+
+4.2 Supervisory Authority Notification
+Without undue delay, and where feasible within 72 hours of becoming aware
+of a personal data breach, the organization must notify the competent
+supervisory authority unless the breach is unlikely to result in a risk
+to the rights and freedoms of natural persons.
+
+4.3 Data Subject Notification
+When a breach is likely to result in a high risk to the rights and freedoms
+of natural persons, the data subjects must be notified without undue delay.
+The notification must describe the breach in clear and plain language.
+
+SECTION 5: DATA PROTECTION BY DESIGN AND BY DEFAULT
+
+5.1 Privacy by Design
+Technical and organizational measures must be implemented both at the time
+of determining the means of processing and at the time of processing itself,
+to ensure that GDPR principles are adhered to and data subject rights are
+protected. This includes data minimization, pseudonymization, and access
+controls built into systems from inception.
+
+5.2 Privacy Impact Assessments (DPIA)
+Data Protection Impact Assessments are mandatory before processing likely
+to result in high risk, including: systematic and extensive profiling;
+large-scale processing of special category data; systematic monitoring of
+publicly accessible areas. DPIAs must be consulted with the DPO.
+
+SECTION 6: INTERNATIONAL DATA TRANSFERS
+
+6.1 Transfer Mechanisms
+Transfers of personal data to third countries are only permitted when
+adequate protection is ensured through:
+- Adequacy decision by the European Commission
+- Standard Contractual Clauses (SCCs) approved by the Commission
+- Binding Corporate Rules (BCRs) approved by supervisory authorities
+- Certification under an approved certification mechanism
+- Codes of conduct with binding and enforceable commitments
+
+6.2 Schrems II Implications
+Following the Court of Justice of the EU ruling in Schrems II (C-311/18),
+organizations must conduct Transfer Impact Assessments (TIAs) before
+relying on SCCs for transfers to third countries, particularly the
+United States. Supplementary measures may be required.
+
+SECTION 7: DATA PROTECTION OFFICER
+
+7.1 DPO Appointment
+The organization has appointed a qualified Data Protection Officer (DPO)
+who operates independently and reports to the highest management level.
+The DPO is accessible to all employees and data subjects.
+
+7.2 DPO Responsibilities
+The DPO's responsibilities include: informing and advising on GDPR
+obligations; monitoring compliance; providing advice on DPIAs; cooperating
+with supervisory authorities; and acting as the contact point for
+supervisory authorities and data subjects.

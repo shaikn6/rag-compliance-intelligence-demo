@@ -1,0 +1,84 @@
+CALIFORNIA CONSUMER PRIVACY ACT (CCPA/CPRA) COMPLIANCE FRAMEWORK
+Document ID: CCPA-FRM-005
+Version: 2.0
+Effective Date: January 1, 2020 (CPRA amendments effective January 1, 2023)
+Last Reviewed: January 20, 2024
+Source: California Civil Code Section 1798.100 et seq.; California Office of the Attorney General (oag.ca.gov); California Privacy Protection Agency (cppa.ca.gov)
+
+SECTION 1: OVERVIEW AND SCOPE
+
+1.1 Regulatory Context
+The California Consumer Privacy Act of 2018 (CCPA) grants California consumers
+rights over their personal information. It was amended by the California Privacy
+Rights Act of 2020 (CPRA), which took effect on January 1, 2023 and created the
+California Privacy Protection Agency (CPPA) to implement and enforce the law
+alongside the California Attorney General.
+
+1.2 Covered Businesses
+The law applies to for-profit businesses that do business in California, collect
+California residents' personal information, and meet at least one threshold: annual
+gross revenue over 25 million dollars; buying, selling, or sharing the personal
+information of 100,000 or more consumers or households; or deriving 50 percent or
+more of annual revenue from selling or sharing personal information.
+
+1.3 Personal Information
+Personal information is information that identifies, relates to, or could
+reasonably be linked with a consumer or household. The CPRA adds a category of
+sensitive personal information, which includes government identifiers, financial
+account details, precise geolocation, and data revealing race, religion, health,
+or sexual orientation.
+
+SECTION 2: CONSUMER RIGHTS
+
+2.1 Right to Know
+A consumer has the right to request that a business disclose the categories and
+specific pieces of personal information it has collected, the sources, the business
+purpose, and the third parties with whom it is shared, over the preceding 12 months.
+
+2.2 Right to Delete
+A consumer has the right to request deletion of personal information the business
+collected from them, subject to statutory exceptions.
+
+2.3 Right to Correct
+Under the CPRA, a consumer may request correction of inaccurate personal
+information a business maintains.
+
+2.4 Right to Opt Out of Sale or Sharing
+A consumer has the right to direct a business not to sell or share their personal
+information. Businesses that sell or share personal information must provide a clear
+"Do Not Sell or Share My Personal Information" link.
+
+2.5 Right to Limit Use of Sensitive Personal Information
+Under the CPRA, a consumer may direct a business to limit the use and disclosure of
+sensitive personal information to what is necessary to provide the goods or services
+requested.
+
+2.6 Right to Non-Discrimination
+A business may not discriminate against a consumer for exercising any CCPA right,
+such as by denying goods or services or charging different prices.
+
+SECTION 3: BUSINESS OBLIGATIONS
+
+3.1 Response Timeline
+A business must respond to a verifiable consumer request within 45 days of receipt.
+The period may be extended by an additional 45 days, for a maximum of 90 days, when
+reasonably necessary and the consumer is notified.
+
+3.2 Privacy Policy
+A business must maintain a privacy policy that describes consumers' rights and the
+categories of personal information collected, disclosed, sold, or shared, and must
+update it at least once every 12 months.
+
+SECTION 4: ENFORCEMENT AND PENALTIES
+
+4.1 Administrative Fines
+The California Privacy Protection Agency and the Attorney General may impose
+administrative fines of up to 2,500 dollars per violation and up to 7,500 dollars
+per intentional violation or per violation involving the personal information of
+consumers under 16 years of age.
+
+4.2 Private Right of Action for Data Breaches
+Consumers may bring a private action when nonencrypted and nonredacted personal
+information is subject to a breach due to a failure to maintain reasonable security.
+Statutory damages range from 100 dollars to 750 dollars per consumer per incident,
+or actual damages, whichever is greater.

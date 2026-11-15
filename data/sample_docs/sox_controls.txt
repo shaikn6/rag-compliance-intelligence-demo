@@ -1,0 +1,185 @@
+SARBANES-OXLEY (SOX) INTERNAL CONTROLS FRAMEWORK
+Document ID: SOX-CTL-003
+Version: 4.0
+Effective Date: January 1, 2024
+Last Reviewed: December 20, 2023
+
+SECTION 1: OVERVIEW AND REGULATORY BACKGROUND
+
+1.1 Legislative Context
+The Sarbanes-Oxley Act of 2002 (SOX) was enacted in response to major
+corporate accounting scandals including Enron, WorldCom, and Tyco. The
+Act established new standards for corporate governance, accounting,
+and financial reporting for publicly traded companies listed on US
+exchanges. Key provisions include Sections 302, 404, 906, and 409.
+
+1.2 Applicability
+SOX applies to all publicly traded companies registered with the SEC,
+their subsidiaries and affiliates, and accounting firms that audit
+these companies. Private companies preparing for an IPO often adopt
+SOX-equivalent controls to facilitate the transition.
+
+1.3 Section 302 Certification Requirements
+The Chief Executive Officer (CEO) and Chief Financial Officer (CFO)
+must personally certify in each annual (10-K) and quarterly (10-Q) report
+that they have reviewed the report and that the financial statements
+fairly present the financial condition of the company. They must also
+certify that they are responsible for establishing and maintaining
+disclosure controls and procedures.
+
+SECTION 2: INTERNAL CONTROL OVER FINANCIAL REPORTING (ICFR)
+
+2.1 Management Assessment (Section 404a)
+Management is required to assess the effectiveness of the company's
+internal control over financial reporting (ICFR) as of the end of each
+fiscal year. The assessment must be based on a recognized control framework
+such as the COSO Internal Control — Integrated Framework (2013).
+
+2.2 Auditor Attestation (Section 404b)
+For accelerated filers and large accelerated filers, the registered public
+accounting firm that audits the financial statements must also attest to
+and report on management's assessment of ICFR. This requirement does not
+apply to non-accelerated filers or emerging growth companies.
+
+2.3 COSO Framework Components
+The COSO framework comprises five interrelated components:
+1. Control Environment: The tone at the top, governance structures, and
+   the commitment to integrity and ethical values.
+2. Risk Assessment: The process for identifying and analyzing risks to
+   achieving organizational objectives.
+3. Control Activities: The policies and procedures that help ensure
+   management directives are carried out.
+4. Information and Communication: Systems that support the identification,
+   capture, and exchange of financial information.
+5. Monitoring Activities: Ongoing evaluations and separate evaluations
+   to ascertain whether controls are present and functioning.
+
+SECTION 3: KEY FINANCIAL REPORTING CONTROLS
+
+3.1 Access Controls
+System access to financial applications must be restricted to authorized
+personnel based on the principle of least privilege. Access reviews must
+be conducted quarterly. Privileged access must be logged and monitored.
+Segregation of duties (SoD) must be enforced to prevent any single
+individual from initiating, authorizing, and recording transactions.
+
+3.2 Segregation of Duties
+The following functions must be performed by separate individuals:
+- Transaction initiation vs. transaction authorization
+- Recording transactions vs. custody of assets
+- IT development vs. IT operations
+- Accounts payable processing vs. check signing authority
+- Bank reconciliation vs. cash handling
+Compensating controls must be documented when SoD is not feasible due
+to organizational size constraints.
+
+3.3 Period-End Close Controls
+The financial close process must include documented checklists for
+journal entry review and approval, account reconciliation sign-off,
+variance analysis and explanations, intercompany elimination procedures,
+and management review of financial statements before release.
+
+3.4 Journal Entry Controls
+All journal entries above defined materiality thresholds require dual
+authorization. Automated journal entries must be system-generated with
+documented logic and approved by the Controller. Manual top-side
+adjustments require CFO approval. All journal entries must reference
+supporting documentation.
+
+SECTION 4: IT GENERAL CONTROLS (ITGCs)
+
+4.1 Change Management
+All changes to financial systems must follow the formal change management
+process: change request, impact assessment, testing in non-production
+environments, change advisory board approval, and post-implementation
+review. Emergency changes are permitted with retrospective approval
+within 24 hours.
+
+4.2 Logical Access Management
+User access provisioning and de-provisioning must follow defined procedures.
+Terminated employees must have access revoked within 24 hours of termination.
+Privileged accounts must use multi-factor authentication. Service accounts
+must be inventoried and reviewed annually.
+
+4.3 Computer Operations
+Batch job scheduling and monitoring must ensure completeness and accuracy
+of financial processing. Incident management procedures must address
+failures in financial processing. Disaster recovery plans must be tested
+annually, with recovery time objectives (RTOs) defined for critical
+financial systems.
+
+4.4 Program Development
+System development lifecycle (SDLC) procedures must ensure segregation
+between development, testing, and production environments. Code reviews
+are required for all changes to financial applications. Security testing
+must be conducted before deployment of significant system changes.
+
+SECTION 5: ENTITY-LEVEL CONTROLS
+
+5.1 Tone at the Top
+The Board of Directors and senior management demonstrate commitment to
+ethical behavior through a Code of Ethics applicable to all employees,
+whistleblower hotline with non-retaliation protections, ethics training
+for all employees, and annual certifications of code compliance.
+
+5.2 Audit Committee
+The Audit Committee of the Board must comprise independent directors and
+include at least one financial expert as defined by SEC rules. The Audit
+Committee oversees the engagement and independence of external auditors,
+reviews significant accounting policies and estimates, and receives reports
+from the Chief Audit Executive on internal audit activities.
+
+5.3 Risk Assessment Process
+Management conducts an annual enterprise risk assessment to identify and
+prioritize risks to financial reporting objectives. The results inform
+the scope of control testing and are reported to the Audit Committee.
+Emerging risks, such as cybersecurity threats and changes in accounting
+standards, are incorporated into the risk assessment.
+
+SECTION 6: CONTROL DEFICIENCY CLASSIFICATION
+
+6.1 Deficiency Types
+Control deficiencies are classified based on their potential impact:
+
+Control Deficiency: A deficiency exists when the design or operation of
+a control does not allow management or employees to prevent or detect
+misstatements in a timely manner. Does not require disclosure.
+
+Significant Deficiency: A deficiency, or combination of deficiencies, that
+is less severe than a material weakness yet important enough to merit
+attention by those responsible for oversight of financial reporting.
+Must be communicated to the Audit Committee.
+
+Material Weakness: A deficiency, or combination of deficiencies, in ICFR
+such that there is a reasonable possibility that a material misstatement
+in the financial statements will not be prevented or detected on a timely
+basis. Must be disclosed in the annual report (10-K).
+
+6.2 Remediation Requirements
+All significant deficiencies and material weaknesses must have documented
+remediation plans with assigned owners, timelines, and status tracking.
+Remediation progress is reported to the Audit Committee quarterly.
+
+SECTION 7: SOX COMPLIANCE CALENDAR
+
+7.1 Key Annual Milestones
+Q1 (January-March):
+- Complete prior year ICFR assessment and management report
+- External auditor completes 404(b) attestation
+- 10-K filing with SOX certifications
+
+Q2 (April-June):
+- Update risk assessment and scoping
+- Begin current year control testing
+- 10-Q filing with Section 302 certifications
+
+Q3 (July-September):
+- Midyear control deficiency assessment
+- Remediation status review
+- 10-Q filing with Section 302 certifications
+
+Q4 (October-December):
+- Complete control testing
+- Management assessment of ICFR
+- Year-end rollforward procedures
+- 10-Q filing with Section 302 certifications

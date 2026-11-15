@@ -1,0 +1,95 @@
+HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) COMPLIANCE FRAMEWORK
+Document ID: HIPAA-FRM-004
+Version: 1.0
+Effective Date: April 14, 2003 (Security Rule: April 20, 2005; Breach Rule updated: September 23, 2013)
+Last Reviewed: January 15, 2024
+Source: U.S. Department of Health and Human Services (HHS), 45 CFR Parts 160 and 164; HITECH Act of 2009
+
+SECTION 1: OVERVIEW AND SCOPE
+
+1.1 Regulatory Context
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+establishes national standards for protecting individuals' health information.
+The standards are implemented through the Privacy Rule, the Security Rule, and
+the Breach Notification Rule, codified at 45 CFR Parts 160 and 164. Enforcement
+is carried out by the HHS Office for Civil Rights (OCR).
+
+1.2 Covered Entities and Business Associates
+The rules apply to covered entities: health plans, health care clearinghouses,
+and health care providers who transmit health information electronically. Under
+the HITECH Act of 2009, business associates that handle protected health
+information on behalf of a covered entity are directly liable for compliance and
+must enter into a Business Associate Agreement.
+
+1.3 Protected Health Information
+Protected Health Information (PHI) is individually identifiable health
+information held or transmitted in any form. Electronic PHI (ePHI) is PHI created,
+received, maintained, or transmitted in electronic form and is the subject of the
+Security Rule.
+
+SECTION 2: PRIVACY RULE
+
+2.1 Minimum Necessary Standard
+Covered entities must make reasonable efforts to use, disclose, and request only
+the minimum amount of protected health information necessary to accomplish the
+intended purpose.
+
+2.2 Right of Access
+Individuals have the right to inspect and obtain a copy of their PHI in a
+designated record set. A covered entity must act on an access request no later
+than 30 days after receipt, with one permitted extension of 30 days if the
+individual is notified in writing of the reason for the delay.
+
+2.3 Permitted Uses and Disclosures
+PHI may be used or disclosed for treatment, payment, and health care operations
+without individual authorization. Most other uses and disclosures require written
+authorization from the individual.
+
+SECTION 3: SECURITY RULE
+
+3.1 Required Safeguards
+Covered entities and business associates must implement administrative, physical,
+and technical safeguards to ensure the confidentiality, integrity, and
+availability of all electronic protected health information.
+
+3.2 Encryption
+Encryption of ePHI is an addressable implementation specification. Where
+encryption is not reasonable and appropriate, the entity must document that
+determination and implement an equivalent alternative measure. ePHI that is
+encrypted to HHS-specified standards is rendered unusable, and its breach does not
+require notification.
+
+3.3 Access Control
+Technical safeguards must include unique user identification, emergency access
+procedures, automatic logoff, and audit controls that record activity in systems
+containing ePHI.
+
+SECTION 4: BREACH NOTIFICATION RULE
+
+4.1 Notification to Individuals
+Following the discovery of a breach of unsecured protected health information, a
+covered entity must notify each affected individual without unreasonable delay and
+no later than 60 calendar days after discovery of the breach.
+
+4.2 Notification to the Secretary
+For a breach affecting 500 or more individuals, the covered entity must notify the
+HHS Secretary without unreasonable delay and within 60 days. For a breach
+affecting fewer than 500 individuals, the entity maintains a log and notifies the
+Secretary annually, within 60 days after the end of the calendar year.
+
+4.3 Notification to the Media
+For a breach affecting more than 500 residents of a state or jurisdiction, the
+covered entity must notify prominent media outlets serving that area, without
+unreasonable delay and within 60 days.
+
+SECTION 5: ENFORCEMENT AND PENALTIES
+
+5.1 Civil Penalty Tiers
+Civil monetary penalties are assessed in four tiers based on culpability: lack of
+knowledge, reasonable cause, willful neglect corrected within 30 days, and willful
+neglect not corrected. Penalty amounts per violation are adjusted annually for
+inflation and are subject to an annual cap per identical provision.
+
+5.2 Criminal Penalties
+Knowingly obtaining or disclosing PHI in violation of HIPAA can result in criminal
+penalties, including fines and imprisonment, enforced by the Department of Justice.

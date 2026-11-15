@@ -1,0 +1,80 @@
+PAYMENT CARD INDUSTRY DATA SECURITY STANDARD (PCI DSS) COMPLIANCE FRAMEWORK
+Document ID: PCI-FRM-006
+Version: 1.0 (summarizing PCI DSS v4.0.1)
+Effective Date: PCI DSS v4.0 released March 2022; future-dated requirements mandatory March 31, 2025
+Last Reviewed: January 25, 2024
+Source: PCI Security Standards Council, PCI DSS v4.0.1 (pcisecuritystandards.org)
+
+SECTION 1: OVERVIEW AND SCOPE
+
+1.1 Regulatory Context
+The Payment Card Industry Data Security Standard (PCI DSS) is a contractual
+security standard maintained by the PCI Security Standards Council. It applies to
+all entities that store, process, or transmit cardholder data, and to entities that
+could affect the security of the cardholder data environment. It is enforced
+through the payment brands and acquiring banks rather than by statute.
+
+1.2 Cardholder Data and Sensitive Authentication Data
+Cardholder data consists of the primary account number (PAN), and, where present,
+cardholder name, expiration date, and service code. Sensitive authentication data
+consists of full track data, card verification codes (CAV2/CVC2/CVV2/CID), and PINs.
+Sensitive authentication data must not be stored after authorization, even if
+encrypted.
+
+SECTION 2: THE TWELVE REQUIREMENTS
+
+2.1 Build and Maintain a Secure Network
+Requirement 1: install and maintain network security controls. Requirement 2: apply
+secure configurations to all system components and do not use vendor-supplied
+defaults for passwords and other security parameters.
+
+2.2 Protect Account Data
+Requirement 3: protect stored account data. Requirement 4: protect cardholder data
+with strong cryptography during transmission over open, public networks.
+
+2.3 Maintain a Vulnerability Management Program
+Requirement 5: protect all systems and networks from malicious software.
+Requirement 6: develop and maintain secure systems and software.
+
+2.4 Implement Strong Access Control Measures
+Requirement 7: restrict access to system components and cardholder data by business
+need to know. Requirement 8: identify users and authenticate access to system
+components. Requirement 9: restrict physical access to cardholder data.
+
+2.5 Regularly Monitor and Test Networks
+Requirement 10: log and monitor all access to system components and cardholder data.
+Requirement 11: test the security of systems and networks regularly.
+
+2.6 Maintain an Information Security Policy
+Requirement 12: support information security with organizational policies and
+programs.
+
+SECTION 3: STORING AND DISPLAYING ACCOUNT DATA
+
+3.1 Rendering the PAN Unreadable
+The primary account number must be rendered unreadable anywhere it is stored, using
+one-way hashes of the entire PAN, truncation, index tokens, or strong cryptography
+with associated key management.
+
+3.2 Masking on Display
+When the PAN is displayed, it must be masked so that only personnel with a
+legitimate business need can see more than the first six and last four digits.
+
+SECTION 4: AUTHENTICATION AND PASSWORDS
+
+4.1 Multi-Factor Authentication
+Under PCI DSS v4.0, multi-factor authentication is required for all access into the
+cardholder data environment, not just remote and administrative access.
+
+4.2 Password Requirements
+Passwords must be at least 12 characters under PCI DSS v4.0, increased from the
+7-character minimum in version 3.2.1, and must contain numeric and alphabetic
+characters.
+
+SECTION 5: VALIDATION
+
+5.1 Assessment Methods
+Compliance is validated annually. Depending on merchant level and transaction
+volume, validation is performed through a Self-Assessment Questionnaire (SAQ) or a
+Report on Compliance (ROC) completed by a Qualified Security Assessor, together with
+quarterly network scans by an Approved Scanning Vendor where applicable.
