@@ -82,7 +82,7 @@ def answer(question: str, use_llm: bool):
     yield body, src, sc
 
 
-with gr.Blocks(title="RAG Compliance Intelligence", theme=gr.themes.Soft()) as demo:
+with gr.Blocks(title="RAG Compliance Intelligence") as demo:
     gr.Markdown(
         "# ⚖️ RAG Compliance Intelligence\n"
         "Ask questions across **AML, GDPR, SOX, HIPAA, CCPA, and PCI DSS** compliance documents — "
@@ -138,4 +138,4 @@ with gr.Blocks(title="RAG Compliance Intelligence", theme=gr.themes.Soft()) as d
         )
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(theme=gr.themes.Soft())
