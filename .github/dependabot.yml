@@ -2,6 +2,8 @@ version: 2
 updates:
   - package-ecosystem: "pip"
     directory: "/"
+    # requirements.txt uses >= ranges; only bump when the range excludes the new version.
+    versioning-strategy: increase-if-necessary
     schedule:
       interval: "weekly"
     groups:
