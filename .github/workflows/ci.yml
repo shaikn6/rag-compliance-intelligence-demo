@@ -24,3 +24,10 @@ jobs:
         run: pip install torch --index-url https://download.pytorch.org/whl/cpu
       - run: pip install -r requirements.txt pytest
       - run: python -m pytest -q
+
+  lint:
+    name: Lint (ruff)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: pipx run ruff==0.17.6 check .

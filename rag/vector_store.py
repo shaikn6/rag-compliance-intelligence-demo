@@ -13,6 +13,11 @@ import pickle
 from pathlib import Path
 from typing import List, Tuple
 
+import faiss
+import numpy as np
+
+from rag.document_loader import DocumentChunk
+
 # Secret used to sign/verify the chunks pickle file. There is no usable default:
 # a baked-in key is public in source, so an attacker could forge a signature over a
 # malicious pickle and achieve code execution on load(). Require an explicit env key.
@@ -28,11 +33,6 @@ def _require_hmac_key() -> bytes:
             "forge the signature and execute code on load()."
         )
     return _HMAC_KEY
-
-import faiss
-import numpy as np
-
-from rag.document_loader import DocumentChunk
 
 
 class VectorStore:

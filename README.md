@@ -1,5 +1,7 @@
 # RAG Compliance Intelligence
 
+[![CI](https://github.com/shaikn6/rag-compliance-intelligence-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/shaikn6/rag-compliance-intelligence-demo/actions/workflows/ci.yml)
+
 **Answers questions over AML, GDPR and SOX sample documents with cited sentences: 14 of 14 on a known-answer set. On 117 new test questions frozen before scoring, it refused 58 of 60 about nearby rules the documents never cover (51 of 60 before this version) and wrongly refused 8 of 57 answerable ones (10 of 57 before). Fast answers took about 2 s each on the free CPU; optional small-model answers about 17 s.**
 
 Ask a question about the bundled sample documents (an AML policy, a GDPR compliance document, SOX
@@ -130,3 +132,12 @@ then became fitting data and the new test set was written.
 - The documents are samples bundled with the demo. This is not legal advice or current regulation text.
 
 Source: the Files tab of this Space
+
+## Run locally
+
+```bash
+pip install torch --index-url https://download.pytorch.org/whl/cpu
+pip install -r requirements.txt pytest
+python app.py
+python -m pytest -q
+```
